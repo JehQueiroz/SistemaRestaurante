@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sistema Restaurante</string>
+    <string name="title_activity_cardapio">Cardapio</string>
+    <string name="title_activity_pedido">Pedido</string>
+    <string name="title_activity_cliente">Cliente</string>
+    <string name="Nome">Nome:</string>
+    <string name="Endereco">Endereço:</string>
+    <string name="Telefone">Telefone:</string>
+    <string name="title_activity_lista_cliente">ListaCliente</string>
+    <string-array name="pratos">
+        <item>Pequeno</item>
+        <item>Médio</item>
+        <item>Grande</item>
+    </string-array>
+
+    <string-array name="precos">
+        <item>7</item>
+        <item>14</item>
+        <item>30</item>
+    </string-array>
+
+</resources>
